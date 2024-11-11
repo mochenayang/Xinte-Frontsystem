@@ -1,0 +1,98 @@
+Date : 2023-10-21 11:07:36
+Directory : c:\Users\76006\Desktop\前台应用
+Total : 42 files,  3187 codes, 110 comments, 279 blanks, all 3576 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| vue        |         16 |      1,559 |          7 |        119 |      1,685 |
+| SCSS       |          5 |        867 |         16 |         30 |        913 |
+| JavaScript |         13 |        579 |         87 |         64 |        730 |
+| Markdown   |          2 |        138 |          0 |         64 |        202 |
+| JSON       |          1 |         27 |          0 |          1 |         28 |
+| HTML       |          1 |         13 |          0 |          1 |         14 |
+| XML        |          4 |          4 |          0 |          0 |          4 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                    |         42 |      3,187 |        110 |        279 |      3,576 |
+| . (Files)                                                                            |          6 |        234 |          6 |         77 |        317 |
+| src                                                                                  |         36 |      2,953 |        104 |        202 |      3,259 |
+| src (Files)                                                                          |          3 |         24 |          2 |          6 |         32 |
+| src\assets                                                                           |          9 |        871 |         16 |         30 |        917 |
+| src\assets (Files)                                                                   |          1 |          1 |          0 |          0 |          1 |
+| src\assets\css                                                                       |          5 |        867 |         16 |         30 |        913 |
+| src\assets\svg                                                                       |          3 |          3 |          0 |          0 |          3 |
+| src\axios                                                                            |          1 |         78 |          8 |          3 |         89 |
+| src\components                                                                       |         14 |      1,378 |         13 |        111 |      1,502 |
+| src\components (Files)                                                               |          1 |         33 |          0 |          5 |         38 |
+| src\components\layout                                                                |         13 |      1,345 |         13 |        106 |      1,464 |
+| src\components\layout (Files)                                                        |          2 |        112 |          4 |         13 |        129 |
+| src\components\layout\components                                                     |         11 |      1,233 |          9 |         93 |      1,335 |
+| src\components\layout\components (Files)                                             |          2 |         25 |          0 |          4 |         29 |
+| src\components\layout\components\navbar                                              |          4 |        186 |          2 |         17 |        205 |
+| src\components\layout\components\setting                                             |          2 |        383 |          7 |         33 |        423 |
+| src\components\layout\components\sidebar                                             |          2 |        408 |          0 |         25 |        433 |
+| src\components\layout\components\tabs                                                |          1 |        231 |          0 |         14 |        245 |
+| src\request                                                                          |          1 |          4 |          0 |          1 |          5 |
+| src\request\axios                                                                    |          1 |          4 |          0 |          1 |          5 |
+| src\router                                                                           |          1 |        136 |         42 |         15 |        193 |
+| src\store                                                                            |          1 |         27 |          4 |          5 |         36 |
+| src\utils                                                                            |          2 |         90 |         18 |         14 |        122 |
+| src\views                                                                            |          4 |        345 |          1 |         17 |        363 |
+| src\views (Files)                                                                    |          3 |        338 |          1 |         15 |        354 |
+| src\views\test                                                                       |          1 |          7 |          0 |          2 |          9 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                             | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\76006\Desktop\前台应用\README.en.md                                             | Markdown   |         69 |          0 |         32 |        101 |
+| c:\Users\76006\Desktop\前台应用\README.md                                                | Markdown   |         69 |          0 |         32 |        101 |
+| c:\Users\76006\Desktop\前台应用\index.html                                               | HTML       |         13 |          0 |          1 |         14 |
+| c:\Users\76006\Desktop\前台应用\package.json                                             | JSON       |         27 |          0 |          1 |         28 |
+| c:\Users\76006\Desktop\前台应用\prettier.config.js                                       | JavaScript |         14 |          2 |          1 |         17 |
+| c:\Users\76006\Desktop\前台应用\src\App.vue                                              | vue        |          9 |          0 |          2 |         11 |
+| c:\Users\76006\Desktop\前台应用\src\assets\css\common.scss                               | SCSS       |         80 |          1 |          7 |         88 |
+| c:\Users\76006\Desktop\前台应用\src\assets\css\custom.scss                               | SCSS       |         81 |          4 |          3 |         88 |
+| c:\Users\76006\Desktop\前台应用\src\assets\css\layout.scss                               | SCSS       |        653 |          5 |         11 |        669 |
+| c:\Users\76006\Desktop\前台应用\src\assets\css\mixin.scss                                | SCSS       |         14 |          4 |          1 |         19 |
+| c:\Users\76006\Desktop\前台应用\src\assets\css\themes.scss                               | SCSS       |         39 |          2 |          8 |         49 |
+| c:\Users\76006\Desktop\前台应用\src\assets\jituan1.svg                                   | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\76006\Desktop\前台应用\src\assets\svg\full-screen-max.svg                       | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\76006\Desktop\前台应用\src\assets\svg\full-screen-min.svg                       | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\76006\Desktop\前台应用\src\assets\svg\language.svg                              | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\76006\Desktop\前台应用\src\axios\index.js                                       | JavaScript |         78 |          8 |          3 |         89 |
+| c:\Users\76006\Desktop\前台应用\src\components\SvgIcon.vue                               | vue        |         33 |          0 |          5 |         38 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\Layout.vue                         | vue        |         97 |          4 |         10 |        111 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\Logo.vue                | vue        |         22 |          0 |          3 |         25 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\layout.js               | JavaScript |          3 |          0 |          1 |          4 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\navbar\FullScreen.vue   | vue        |         34 |          0 |          2 |         36 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\navbar\UserInfo.vue     | vue        |         36 |          0 |          3 |         39 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\navbar\fullScreen.js    | JavaScript |         36 |          0 |          2 |         38 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\navbar\index.vue        | vue        |         80 |          2 |         10 |         92 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\setting\index.js        | JavaScript |        134 |          7 |          8 |        149 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\setting\index.vue       | vue        |        249 |          0 |         25 |        274 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\sidebar\SidebarItem.vue | vue        |         85 |          0 |          5 |         90 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\sidebar\index.vue       | vue        |        323 |          0 |         20 |        343 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\components\tabs\index.vue          | vue        |        231 |          0 |         14 |        245 |
+| c:\Users\76006\Desktop\前台应用\src\components\layout\index.vue                          | vue        |         15 |          0 |          3 |         18 |
+| c:\Users\76006\Desktop\前台应用\src\main.js                                              | JavaScript |         15 |          2 |          3 |         20 |
+| c:\Users\76006\Desktop\前台应用\src\permission.js                                        | JavaScript |          0 |          0 |          1 |          1 |
+| c:\Users\76006\Desktop\前台应用\src\request\axios\menuManage.js                          | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\76006\Desktop\前台应用\src\router\index.js                                      | JavaScript |        136 |         42 |         15 |        193 |
+| c:\Users\76006\Desktop\前台应用\src\store\index.js                                       | JavaScript |         27 |          4 |          5 |         36 |
+| c:\Users\76006\Desktop\前台应用\src\utils\storage.js                                     | JavaScript |         34 |          6 |          6 |         46 |
+| c:\Users\76006\Desktop\前台应用\src\utils\svg-loader.js                                  | JavaScript |         56 |         12 |          8 |         76 |
+| c:\Users\76006\Desktop\前台应用\src\views\Home.vue                                       | vue        |        153 |          0 |          3 |        156 |
+| c:\Users\76006\Desktop\前台应用\src\views\Iframe.vue                                     | vue        |         11 |          1 |          3 |         15 |
+| c:\Users\76006\Desktop\前台应用\src\views\Test.vue                                       | vue        |        174 |          0 |          9 |        183 |
+| c:\Users\76006\Desktop\前台应用\src\views\test\test.vue                                  | vue        |          7 |          0 |          2 |          9 |
+| c:\Users\76006\Desktop\前台应用\vite.config.js                                           | JavaScript |         42 |          4 |         10 |         56 |
+| Total                                                                                |            |      3,187 |        110 |        279 |      3,576 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
